@@ -1,1 +1,1 @@
-# animalorder-app
+# animal-app
